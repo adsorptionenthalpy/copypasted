@@ -7,7 +7,7 @@ Output:
 
 $ g++ ShortestPathDAG.cpp
 $ a.out
- 
+
 Following are shortest distances from source 1 
 INF 0 2 6 5 3 
 ------------------
